@@ -1,0 +1,11 @@
+D:\Учеба\лабы\5 сем\СПП\1 лаба\Tracer\TracerMethod\TracerMethod\TracerMethod\bin\Debug\TracerMethod.exe.config
+D:\Учеба\лабы\5 сем\СПП\1 лаба\Tracer\TracerMethod\TracerMethod\TracerMethod\bin\Debug\TracerMethod.exe
+D:\Учеба\лабы\5 сем\СПП\1 лаба\Tracer\TracerMethod\TracerMethod\TracerMethod\bin\Debug\TracerMethod.pdb
+D:\Учеба\лабы\5 сем\СПП\1 лаба\Tracer\TracerMethod\TracerMethod\TracerMethod\bin\Debug\Tracer.exe
+D:\Учеба\лабы\5 сем\СПП\1 лаба\Tracer\TracerMethod\TracerMethod\TracerMethod\bin\Debug\Tracer.pdb
+D:\Учеба\лабы\5 сем\СПП\1 лаба\Tracer\TracerMethod\TracerMethod\TracerMethod\bin\Debug\Tracer.exe.config
+D:\Учеба\лабы\5 сем\СПП\1 лаба\Tracer\TracerMethod\TracerMethod\TracerMethod\obj\Debug\TracerMethod.csprojAssemblyReference.cache
+D:\Учеба\лабы\5 сем\СПП\1 лаба\Tracer\TracerMethod\TracerMethod\TracerMethod\obj\Debug\TracerMethod.csproj.CoreCompileInputs.cache
+D:\Учеба\лабы\5 сем\СПП\1 лаба\Tracer\TracerMethod\TracerMethod\TracerMethod\obj\Debug\TracerMethod.csproj.CopyComplete
+D:\Учеба\лабы\5 сем\СПП\1 лаба\Tracer\TracerMethod\TracerMethod\TracerMethod\obj\Debug\TracerMethod.exe
+D:\Учеба\лабы\5 сем\СПП\1 лаба\Tracer\TracerMethod\TracerMethod\TracerMethod\obj\Debug\TracerMethod.pdb
