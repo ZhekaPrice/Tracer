@@ -1,0 +1,9 @@
+D:\Учеба\лабы\5 сем\СПП\1 лаба\Tracer\Tracer\obj\Debug\Tracer.csprojAssemblyReference.cache
+D:\Учеба\лабы\5 сем\СПП\1 лаба\Tracer\Tracer\obj\Debug\Tracer.csproj.CoreCompileInputs.cache
+D:\Учеба\лабы\5 сем\СПП\1 лаба\Tracer\Tracer\bin\Debug\Tracer.exe.config
+D:\Учеба\лабы\5 сем\СПП\1 лаба\Tracer\Tracer\bin\Debug\Tracer.exe
+D:\Учеба\лабы\5 сем\СПП\1 лаба\Tracer\Tracer\bin\Debug\Tracer.pdb
+D:\Учеба\лабы\5 сем\СПП\1 лаба\Tracer\Tracer\bin\Debug\Json.pdb
+D:\Учеба\лабы\5 сем\СПП\1 лаба\Tracer\Tracer\obj\Debug\Tracer.csproj.CopyComplete
+D:\Учеба\лабы\5 сем\СПП\1 лаба\Tracer\Tracer\obj\Debug\Tracer.exe
+D:\Учеба\лабы\5 сем\СПП\1 лаба\Tracer\Tracer\obj\Debug\Tracer.pdb
